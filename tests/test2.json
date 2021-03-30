@@ -1,0 +1,20 @@
+{
+    "quiz": {
+        "sport": {
+            "q1": {
+                "question": "Which one is correct team name in NBA?",
+                "answer": "Huston Rocket"
+            }
+        },
+        "maths": {
+            "q1": {
+                "question": "5 + 7 = ?",
+                "answer": "12"
+            },
+            "q2": {
+                "question": "12 - 8 = ?",
+                "answer": "4"
+            }
+        }
+    }
+}
